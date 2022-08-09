@@ -1,0 +1,21 @@
+<template>
+  <div id="app">
+    <!-- <div>APP父应用111</div> -->
+    <!-- <router-view /> -->
+    我是父应用的子组件哦--》child1的子组件哦
+  </div>
+</template>
+
+<script>
+import './public-path'
+export default {
+  name: 'App',
+  components: {
+    
+  }
+}
+</script>
+
+<style>
+
+</style>
